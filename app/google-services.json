@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "285891650433",
+    "firebase_url": "https://smarthomeiot-xiir3.firebaseio.com",
+    "project_id": "smarthomeiot-xiir3",
+    "storage_bucket": "smarthomeiot-xiir3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285891650433:android:379a9bac8173249c",
+        "android_client_info": {
+          "package_name": "id.sch.smktelkom_mlg.smarthomeiot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285891650433-q2ifa8pvnjsra1ac8ehgebqnv65a2pl3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.sch.smktelkom_mlg.smarthomeiot",
+            "certificate_hash": "74ed86d7cb5d4ea36b291c0059ea920fcd514dd6"
+          }
+        },
+        {
+          "client_id": "285891650433-kfr478ur2k5mc23vl1ctqabj50l9ijls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlGIAAmoWzMr-IXYaTETntOuoprnmJSjw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285891650433-kfr478ur2k5mc23vl1ctqabj50l9ijls.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
